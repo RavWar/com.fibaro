@@ -6452,7 +6452,8 @@
         "productId": [
           4097,
           8193,
-          12289
+          12289,
+          16387
         ],
         "zwaveAllianceProductId": 994,
         "learnmode": {
@@ -7012,7 +7013,8 @@
           4098,
           4099,
           8194,
-          12290
+          12290,
+          16387
         ],
         "includeSecure": false,
         "zwaveAllianceProductId": 2791,
